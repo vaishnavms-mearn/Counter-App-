@@ -1,0 +1,19 @@
+                        React
+         --------------------------------
+        1.React is a Javscript Library
+        2.Created by facebook
+        3.Used to Built single page web applications
+
+                     Project Setup
+          --------------------------------
+        4.Create a application - npx create-react-app <application name>
+        5.cd myapp
+        6.code .
+        7.Run the application npm-start
+        8.Clean the code
+
+                     Components (basic building block of react)
+            --------------------------------
+     -> React app starts with a single root component
+     -> Root component is bulid using one or more component
+     -> Each component can be nested wit the other  component to any level
